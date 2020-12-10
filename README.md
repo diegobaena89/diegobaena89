@@ -6,7 +6,7 @@
 
 ```javascript
 const aboutMe = {
-     code: [Javascript, C, HTML5, CSS3, Sass],
+     code: ["Javascript", "C", "HTML5", "CSS3", "Sass"],
      technologies: {
            frontEnd: {
            css: ["Bootstrap"],  
