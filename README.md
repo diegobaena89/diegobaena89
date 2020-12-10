@@ -1,4 +1,5 @@
-## Passionate Front End Developer Jr from Brazil
+# Hey! Welcome here!
+## Im Diego a passionate Front End Developer Jr from São Paulo/Brazil
 ### Studying System Analysis and Development
 
       const aboutMe = {
