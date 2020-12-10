@@ -3,32 +3,32 @@
 
 const aboutMe = {
 
-     code: [Javascript, C, HTML5, CSS3, Sass,
+   code: [Javascript, C, HTML5, CSS3, Sass,
    
-     technologies: {
+   technologies: {
   
-     frontEnd: {
+   frontEnd: {
   
-     css: ["Bootstrap"]
-  
-  },
-  
-     backEnd: {
-  
-     js: ["Node js"],
+   css: ["Bootstrap"]
   
   },
   
-     databases: ["mySQL"],
+   backEnd: {
   
-     mobile: ["React Native"]
-  
-  },
-  
-     tools: ["Visual Studio Code", "Figma", "Adobe XD", "Scout App"],
+   js: ["Node js"],
   
   },
   
-     currentOccupation: ["last year student, open for job opportunities"],
+   databases: ["mySQL"],
+  
+   mobile: ["React Native"]
+  
+  },
+  
+   tools: ["Visual Studio Code", "Figma", "Adobe XD", "Scout App"],
+  
+  },
+  
+   currentOccupation: ["last year student, open for job opportunities"],
 
 };
