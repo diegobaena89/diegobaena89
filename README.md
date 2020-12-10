@@ -2,10 +2,8 @@
 ### Studying System Analysis and Development
 
 const aboutMe = {
-
-   code: [Javascript, C, HTML5, CSS3, Sass,
-   
-   technologies: {
+      code: [Javascript, C, HTML5, CSS3, Sass,
+      technologies: {
   
    frontEnd: {
   
