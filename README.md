@@ -1,16 +1,11 @@
-# Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 
-## Im Diego, a Front End Developer Jr from São Paulo/Brazil
+# Hello there, I'm {Diego}! 👋 
+A Front End Developer Jr from São Paulo/Brazil
 
----
+--
 
-### 📫  Reach me at 
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "www.linkedin.com")
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-<div align="center"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "www.linkedin.com")
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </div>
-
-
----
 
 ```javascript
 const aboutMe = {
