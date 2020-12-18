@@ -1,6 +1,14 @@
 # Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 
-## Im Diego a passionate Front End Developer Jr from São Paulo/Brazil
-### Studying System Analysis and Development 🔨
+## Im Diego, a Front End Developer Jr from São Paulo/Brazil
+
+---
+
+### 📫  Reach me at 
+
+<div align="center"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "www.linkedin.com")
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </div>
+
 
 ---
 
@@ -37,9 +45,4 @@ const aboutMe = {
 
 ---
 
-### 📫  Reach me at 
-
-[Linkedin](https://www.linkedin.com/in/diegobaena "LinkedIn")
-
----
 ## <div align="center"> 💻 Check Out My Repos ⬇️ </div>
