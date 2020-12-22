@@ -33,6 +33,9 @@ const aboutMe = {
 },
           currentOccupation: ["last year student, open for job opportunities"],
 };
+
+let baixarCurriculo = " [Clique aqui](https://drive.google.com/file/d/1by_UnLKXUpccTl-nlRhqGkdGQvUBjEkW/view?usp=sharing) ";
+
 ```
 
 ---
