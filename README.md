@@ -35,11 +35,14 @@ const aboutMe = {
 };
 
 ```
-<div align"center">
+<div align="center">
+
 
  [BAIXAR CURRICULO.exe](https://cutt.ly/whMYV62)
 
+
 </div>
+
 
 ---
 <div align="center">
