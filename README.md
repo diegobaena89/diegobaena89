@@ -27,7 +27,7 @@ const aboutMe = {
            js: ["Node js"],
 },
           databases: ["mySQL"],
-          mobile: ["React Native"]
+          web: ["React", "Angular"],
 },
           tools: ["Visual Studio Code", "Figma", "Adobe XD", "Scout App"],
 },
