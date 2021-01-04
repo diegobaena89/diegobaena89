@@ -48,7 +48,7 @@ const aboutMe = {
 <div align="center">
 
 
-![diego's status](https://github-readme-stats.vercel.app/api?username=diegobaena89&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobaena89&hide=html&theme=dark&layout=compact)](https://github.com/diegobaena89/github-readme-stats)
+![diego's status](https://github-readme-stats.vercel.app/api?username=diegobaena89&&theme=dark&show_show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobaena89&langs_count=5&hide=html&theme=dark&layout=compact)](https://github.com/diegobaena89/github-readme-stats)
 
 </div>
 
