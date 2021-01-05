@@ -37,8 +37,9 @@ const aboutMe = {
 ```
 <div align="center">
 
-
- [BAIXAR CURRICULO.exe](https://cutt.ly/whMYV62)
+   **Baixar Curriculo** 
+     
+   [Pt-Br.exe](https://drive.google.com/file/d/18iIRAZo_kw4X0bsv9sC-GrovtkVA1wKa/view?usp=sharing) |  [Eng.exe](https://drive.google.com/file/d/1O931vnfxBk7fN6pvAPZaSda4PE742ifq/view?usp=sharing)
 
 
 </div>
