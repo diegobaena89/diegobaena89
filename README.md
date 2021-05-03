@@ -35,7 +35,7 @@ class Bio extends FullstackStudent {
 
 class Skills extends FullstackStudent {
   languages = ['Javascript', 'Typescript', 'C', 'C#', 'HTML', 'Css', 'Sass'];
-  databases = ['SQL Server', 'MySQL', 'Node.js];
+  databases = ['SQL Server', 'Node.js];
   Frameworks = ['ReactJs', 'Bootstrap', 'Express'];
   Tools = ['Visual Studio Code', 'Figma', 'Git', 'Github', 'Adobe XD];
 }
