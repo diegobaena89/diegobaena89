@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello there, I'm {Diego}! 👋 
-A Front End Developer Jr from São Paulo/Brazil
+A Web Developer Fullstack Jr from São Paulo/Brazil
 
 </div>
 
@@ -26,14 +26,14 @@ A Front End Developer Jr from São Paulo/Brazil
 
 ```javascript
 
-import FullstackStudent from 'diegobaena';
+import webDevFullstackStudent from 'diegobaena';
 
-class Bio extends FullstackStudent {
+class Bio extends webDevFullstackStudent {
   name    = 'Diego Baena Fronteira';
   title   = ' FullStack Developer Student';
 }
 
-class Skills extends FullstackStudent {
+class Skills extends webDevFullstackStudent {
   languages = ['Javascript', 'Typescript', 'C', 'C#', 'HTML', 'Css', 'Sass'];
   databases = ['SQL Server', 'Node.js];
   Frameworks = ['ReactJs', 'Bootstrap', 'Express'];
