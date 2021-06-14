@@ -31,12 +31,14 @@ import webDevFullstackStudent from 'diegobaena';
 class Bio extends webDevFullstackStudent {
   name    = 'Diego Baena Fronteira';
   title   = ' FullStack Developer Student';
+  function = 'Custom Solutions Consultant';
+  company = 'Capgemini';
 }
 
 class Skills extends webDevFullstackStudent {
   languages = ['Javascript', 'Typescript', 'C', 'C#', 'HTML', 'Css', 'Sass'];
   databases = ['SQL Server', 'Node.js];
-  Frameworks = ['ReactJs', 'Bootstrap', 'Express'];
+  Frameworks = ['ReactJs', 'Angular', 'Bootstrap', 'Express'];
   Tools = ['Visual Studio Code', 'Figma', 'Git', 'Github', 'Adobe XD'];
 }
   
