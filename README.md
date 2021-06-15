@@ -31,7 +31,7 @@ import webDevFullstackJr from 'diegobaena';
 class Bio extends webDevFullstackJr {
   name    = 'Diego Baena Fronteira';
   title   = ' FullStack Developer jr';
-  function = 'Custom Solutions Consultant';
+  function = 'Systems Development Analyst';
   company = 'Capgemini';
 }
 
