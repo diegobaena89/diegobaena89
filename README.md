@@ -36,10 +36,10 @@ class Bio extends webDevFullstackJr {
 }
 
 class Skills extends webDevFullstackJr {
-  languages = ['Javascript', 'Typescript', 'C', 'C#', 'HTML', 'Css', 'Sass'];
+  languages = ['Javascript', 'Typescript', 'C', 'C#', 'HTML', 'Css', 'Sass', 'Java', JSP];
   databases = ['SQL Server', 'Node.js];
-  Frameworks = ['ReactJs', 'Angular', 'Bootstrap'];
-  Tools = ['Visual Studio Code', 'Figma', 'Git', 'Github', 'Adobe XD'];
+  Frameworks = ['ReactJs', 'Angular', 'Bootstrap', 'Primefaces'];
+  Tools = ['Visual Studio Code', 'Eclipse', 'Figma', 'Git', 'Github', 'Adobe XD'];
 }
   
 
