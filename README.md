@@ -26,16 +26,16 @@ A Web Developer Fullstack Jr from São Paulo/Brazil
 
 ```javascript
 
-import webDevFullstackJr from 'diegobaena';
+import softwareDeveloperJr from 'diegobaena';
 
-class Bio extends webDevFullstackJr {
+class Bio extends softwareDeveloperJr {
   name    = 'Diego Baena Fronteira';
   title   = ' FullStack Developer jr';
   function = 'Systems Development Analyst';
   company = 'Capgemini';
 }
 
-class Skills extends webDevFullstackJr {
+class Skills extends softwareDeveloperJr {
   languages = ['Javascript', 'Typescript', 'Java', 'NodeJS', PHP];
   databases = ['MySQL', 'MongoDB'];
   FrameworksAndLibs = ['ReactJs', 'Angular', 'Bootstrap', 'Primefaces'];
