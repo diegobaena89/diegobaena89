@@ -32,7 +32,7 @@ class Bio extends softwareDeveloperJr {
   name    = 'Diego Baena Fronteira';
   title   = ' FullStack Developer jr';
   function = 'Systems Development Analyst';
-  company = 'Capgemini';
+  company = 'Alpar Service';
 }
 
 class Skills extends softwareDeveloperJr {
