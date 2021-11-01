@@ -15,18 +15,15 @@ A Web Developer Fullstack Jr from São Paulo/Brazil
 
 </div>
 
-- 🔭 I’m currently working on **Alpar Services**
+- 🔭 I’m currently working in **Alpar Services** as ServiceNow Technical Consultant
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **diegobfronteira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dihhbaena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dihhbaena" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diegobaena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegobaena" height="30" width="40" /></a>
-<a href="https://fb.com/dihhbaena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dihhbaena" height="30" width="40" /></a>
-<a href="https://instagram.com/dihhbaena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dihhbaena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
