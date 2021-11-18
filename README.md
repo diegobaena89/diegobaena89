@@ -1,45 +1,43 @@
-<div align="left">
+<h1>Hey yo, I'm Diego, a Front-end Developer Jr!</h1>
 
-### Hey there, I´m Diego Baena, a Web Developer Full Stack 👋
+<img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
 
-  <p align="left">
-<a href="https://twitter.com/dihhbaena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dihhbaena" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diegobaena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegobaena" height="30" width="40" /></a>
+Now working as a software developer at [@AlparService](https://alparservice.com.br/).
+
+<a href="https://linkedin.com/in/diegobaena"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/dihhbaena"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:diegobd.cello@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+
+<ul>
+  <li>💻 A Javascript Developer from <b>São Paulo, Brasil</b>;</li>
+  <li>😍 Passionate about Javascript, Typescript, Angular, Node and ReactJS</li>
+  <li>😊 Enjoy spending my free time trying to solve new problems in programming</li>
+  <li>🤓 Recently improving my skills in backend with NodeJS, Express and MongoDB</li>
+</ul>
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </p>
+
+---
+
+## :octocat: My Github Stats:
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiegobaena89&count_bg=%233D76C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  
-
-  
-<h3 align="left">:octocat: Github Stats</h3>
-  
-- - - -
-  
-  
-  
-|||
-| ------------- |:-------------:|
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=diegobaena89&show_icons=true&locale=en" alt="diegobaena89" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegobaena89&" alt="diegobaena89" /></p> |
-
-
-<h3 align="left">🤟 About</h3>
 
 ---
-  
-I'm Diego, a 32 yo Front end developer from São Paulo/Brazil. I started studying programmin in the beginning of 2020's focusing in all Javascript stacks and technologies. Nowadays I'm also dedicating myself in new project foccused on backend.
 
-  
-
-<h3 align="left">:computer: Technologies and Skills</h3>
-
----
-  
-* Frontend development using Angular, Javascript, Typescript, SASS, CSS3 and HTML5.
-* Backend development using Node.Js, MongoDB, PHP and Java.
-
-
-
-### <div align="center"> 💻 Check Out My Repos ⬇️ </div>
-  
-  ---
+<p align = "center">
+  <img height="160" src = "https://github-readme-stats.vercel.app/api?username=diegobaena89&show_icons=true&theme=dark&line_height=27">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobaena89&layout=compact&theme=dark" />
+</p>
