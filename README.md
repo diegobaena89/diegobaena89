@@ -13,7 +13,7 @@ Now working as a software developer at [@AlparService](https://alparservice.com.
   <li>😍 Passionate about Javascript, Typescript, Node and ReactJS.</li>
   <li>💻 I also have knowledge in Express, C# and Angular.</li>
   <li>😊 Enjoy spending my free time trying to solve new problems in programming.</li>
-  <li>🤓 Recently improving my skills in backend with NodeJS, Express, Sequelize and MongoDB.</li>
+  <li>🤓 Recently improving my skills in backend with NodeJS, Express, Sequelize, mongoDB and TDD with Jest.</li>
 </ul>
 
 ---
