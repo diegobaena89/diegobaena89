@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
 
-Now working as a React developer at [@BEESbe]([https://alparservice.com.br/]([https://ambevtech.com.br/](https://novo.parceiroambev.com.br/))).
+Now working as a React developer at [@BEES]([https://ambevtech.com.br/](https://novo.parceiroambev.com.br/)).
 
 <a href="https://linkedin.com/in/diegobaena"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/dihhbaena"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
