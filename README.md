@@ -13,7 +13,7 @@ Now working as a React developer at [@BEES]([https://ambevtech.com.br/](https://
   <li>😍 Passionate about Javascript, Typescript, Node and ReactJS.</li>
   <li>💻 I also have knowledge in Express and Angular.</li>
   <li>😊 Enjoy spending my free time trying to solve new problems in programming.</li>
-  <li>🤓 Recently improving my skills in backend with NodeJS, Express, Sequelize, mongoDB and TDD with Jest.</li>
+  <li>🤓 Currently improving my skills in unit tests with Jest and React Testing Library and compoent tests with Cypress.</li>
 </ul>
 
 ---
@@ -27,9 +27,9 @@ Now working as a React developer at [@BEES]([https://ambevtech.com.br/](https://
   <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
 </p>
 
 ---
