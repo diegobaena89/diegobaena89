@@ -33,7 +33,13 @@ Now working as a React developer at [@BEES]([https://ambevtech.com.br/](https://
 </p>
 
 ---
+## 📔 Medium Articles
 
+|  Article |
+| ------------ | 
+| [Arquitetura Rest](https://medium.com/@diego-baena/arquitetura-rest-e-apis-simplificando-a-comunicação-entre-computadores-535def0c55d3 "Arquitetura Rest") |
+
+---
 ## :octocat: Github Stats:
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiegobaena89&count_bg=%233D76C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
