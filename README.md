@@ -1,4 +1,4 @@
-<h1>Hey yo, I'm Diego, a Software Developer!!</h1>
+<h1>Diego Baena</h1>
 
 <img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
 
